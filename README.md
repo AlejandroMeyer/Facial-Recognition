@@ -23,10 +23,7 @@ This project is still in an exploratory phase, and future improvements could inc
 4. The user can exit by pressing 'q'.  
 
 ## 📦 Installation  
-Before running the script, ensure you have the required dependencies installed:  
-
-```bash
-pip install opencv-python deepface tensorflow
+Before running the script, ensure you have the required dependencies installed in the file: requirements.txt  
 
 1. Clone the repository:  
    ```bash
