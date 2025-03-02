@@ -27,3 +27,11 @@ Before running the script, ensure you have the required dependencies installed:
 
 ```bash
 pip install opencv-python deepface tensorflow
+
+1. Clone the repository:  
+   ```bash
+   [git clone https://github.com/AlejandroMeyer/Facial-Recognition]
+
+----
+
+Feel free to contribute or report any issues!
